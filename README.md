@@ -6,14 +6,14 @@ The following datasets can be used for data analytics trainings permitted under 
 
 ## Product Descriptions and Categories
 
-This dataset was kindly provided by Price Intelligence GmbH and con be used to train product classification models.
+This dataset was kindly provided by Price Intelligence GmbH and can be used to train product classification models for learning purposes.
 
 [eCommerce Dataset PriceIntelligence](eCom_Produkte.rar)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This data is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[Creative Commons Attribution 4.0 International License][cc-by] by Price Intelligence GmbH.
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 

@@ -13,7 +13,7 @@ This dataset was kindly provided by Price Intelligence GmbH and can be used to t
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This data is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by] by Price Intelligence GmbH.
+[Creative Commons Attribution 4.0 International License][cc-by] by Price Intelligence GmbH and may be reused under the terms of this license.
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 

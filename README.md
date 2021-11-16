@@ -25,5 +25,5 @@ This data is licensed under a
 
 ## Images
 
-Header of the eCommerce Flat Product Classification Workshop under CC0 License. [Source]: https://www.pexels.com/de-de/foto/macbook-computer-tastatur-bankwesen-34577/
+Header of the eCommerce Flat Product Classification Workshop under **CC0 License**. [Source](https://www.pexels.com/de-de/foto/macbook-computer-tastatur-bankwesen-34577/)
 
